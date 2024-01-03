@@ -1,15 +1,15 @@
 ### Hi stranger!!!
 
-### I'm a Software Engineer based in Berlin :flag_germany:
+I'm a Brazilian Software Engineer based in Berlin 🇩🇪
 
-### Working with:
+*Working with* 💻
  - React
  - React Native
  - Typescript
  - CSS in JS
  - Performance
- - 
-### Learning:
+
+*Learning* 👨‍🎓
  - Golang
 
 <!--
