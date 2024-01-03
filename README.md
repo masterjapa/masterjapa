@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi stranger!!!
+
+### I'm a Software Engineer based in Berlin :flag_germany:
+
+### Working with:
+ - React
+ - React Native
+ - Typescript
+ - CSS in JS
+ - Performance
+ - 
+### Learning:
+ - Golang
 
 <!--
 **masterjapa/masterjapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
